@@ -20,8 +20,8 @@ INITIAL_LOGO_RATIO = 0.22  # % del ancho del QR ocupado por el recuadro central
 MIN_LOGO_RATIO = 0.10
 RATIO_STEP = 0.02
 
-SHOW_LABEL = False
-LABEL_TEXT = "WiFi"
+SHOW_LABEL = True
+LABEL_TEXT = "Wi-Fi"
 
 FONT_CANDIDATES = [
     "/System/Library/Fonts/SFNS.ttf",
