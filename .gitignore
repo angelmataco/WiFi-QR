@@ -1,0 +1,8 @@
+.env
+wifi_qr.png
+__pycache__/
+*.pyc
+.venv/
+venv/
+.claude/
+.DS_Store
