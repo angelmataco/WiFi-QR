@@ -67,3 +67,7 @@ ilustrar el diseño — no es una red real, no conecta a nada):
   transparente que se pega y escala sobre el QR. Si quieres cambiar el diseño,
   reemplaza ese archivo por otra imagen circular con fondo transparente.
 - Puedes reactivar el texto "WiFi" debajo del QR poniendo `SHOW_LABEL = True`.
+
+## Licencia
+
+[MIT](LICENSE).
