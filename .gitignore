@@ -6,3 +6,18 @@ __pycache__/
 venv/
 .claude/
 .DS_Store
+
+# Base común (claude-config): nunca subir secretos ni datos reales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_rsa.*
+*.db
+*.sqlite
+*.sqlite3
+.venv/
+__pycache__/
+.DS_Store
